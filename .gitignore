@@ -1,0 +1,6 @@
+__pycache__/
+runs/*/
+!runs/bj2/
+!runs/live/
+runs/claw21/
+*.pyc
